@@ -3,7 +3,8 @@
 This is a personal web project I built to revise and showcase my **HTML and CSS** skills.  
 The design focuses on bold visuals, structured layout, and clean styling – all done without using any frameworks.
 
-🌐 Live Demo: swyamshukla.github.io/monkeyPro
+🌐 Live Demo: 
+ [swyamshukla.github.io/monkeyPro](https://swyamshukla.github.io/monkeyPro/) 
 
 ## 🎯 Purpose
 
